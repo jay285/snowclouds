@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="RSC Static Data" max_length="40" name="x_55241_rs_autopro_rs_comp_static_data" type="collection">
+        <element label="Description" max_length="2000" name="description" type="string"/>
+        <element label="Label" max_length="40" name="label" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Value" max_length="40" name="value" type="string"/>
+    </element>
+</database>
